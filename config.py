@@ -1,0 +1,1 @@
+databasename = "postgres://tmvodovetsfcjr:14f7cf42c246c14ab12e82b67dda9f83a92a8208f5ded57311d2ba11c5780201@ec2-54-235-167-210.compute-1.amazonaws.com:5432/d52o0r9caflcfk"
